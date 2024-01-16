@@ -63,22 +63,3 @@
         text-align: center;
         }
 
-
-
-
-
- .right{
-  position: absolute;
-right: 40px;
- }
-#sec{
-  border-radius: 100px;
-   width: 25px; 
-   height: 25px; 
-   padding-top: 5px; 
-   color: white;
-   background-color:rgb(227, 174, 15);
- }
- iframe{
-  width: 100%;
- }
